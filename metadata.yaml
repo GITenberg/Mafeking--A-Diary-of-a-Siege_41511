@@ -1,0 +1,26 @@
+_repo: Mafeking--A-Diary-of-a-Siege_41511
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41511-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Baillie, Frederick David
+    alias: Baillie, F. D.
+    gutenberg_agent_id: '41212'
+    url: http://www.gutenberg.org/2009/agents/41212
+description: ''
+gutenberg_issued: '2012-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902'
+- !lcsh 'Mafikeng (South Africa) -- History -- Siege, 1899-1900'
+- !lcc 'DT'
+title: 'Mafeking: A Diary of a Siege'
+url: http://www.gutenberg.org/ebooks/41511
